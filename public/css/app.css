@@ -1,0 +1,43 @@
+:root{
+    --maincolor:#006d77;
+}
+
+.navbar{
+    background-color: var(--maincolor);
+    color:cornsilk;
+}
+
+main{
+    margin-top: 4.5rem;
+}
+.card{
+    padding: 10px;
+    margin:20px;
+    
+}
+
+.card img{
+    padding: 10px;
+    height: 225px;
+}
+
+
+#heading {
+    width: 98%;
+    background-color: #e9ecef;
+    padding: 16px;
+    margin: 10px auto;
+    border-radius: 10px;
+  }
+
+
+.navbar-brand {
+    font-family: "Orbitron", sans-serif;
+    letter-spacing: 0.1em;
+}
+
+.fa-shopping-basket{
+    font-size: 1.6rem;
+    margin-right: 8px;
+}
+
